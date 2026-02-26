@@ -152,7 +152,7 @@ Open [http://localhost:3000](http://localhost:3000) in **Chrome or Edge** (requi
 ![Chat Interface](./assets/chat.png)
 
 ### Calendar Integration
-![Calendar Integration](./assets/calendar.png)
+![Calendar Integration](./assets/calender.png)
 
 ### vercel deployment
 ![vercel deployment](./assets/vercel_deployment.png)
