@@ -142,3 +142,17 @@ Open [http://localhost:3000](http://localhost:3000) in **Chrome or Edge** (requi
 | Styling | Tailwind CSS |
 | Icons | Lucide React |
 | Deployment | Vercel |
+
+## Screenshots
+
+### Main Interface
+![Main Interface](./assets/home_page.png)
+
+### Chat Interface
+![Chat Interface](./assets/chat.png)
+
+### Calendar Integration
+![Calendar Integration](./assets/calendar.png)
+
+### vercel deployment
+![vercel deployment](./assets/vercel_deployment.png)
