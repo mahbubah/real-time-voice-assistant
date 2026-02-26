@@ -4,7 +4,13 @@ A real-time voice assistant that helps users schedule Google Calendar events thr
 
 🚀 **[Live Demo](https://real-time-voice-assistant.vercel.app/)** — Try it now!
 
-📹 **[Watch Demo Video](https://www.loom.com/share/6b3c190e13da4122b8b7d7e20d621126)** — See it in action!
+## Demo Video
+
+<div>
+  <a href="https://www.loom.com/share/6b3c190e13da4122b8b7d7e20d621126">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6b3c190e13da4122b8b7d7e20d621126-with-play.gif">
+  </a>
+</div>
 
 ## Features
 
