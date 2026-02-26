@@ -4,6 +4,8 @@ A real-time voice assistant that helps users schedule Google Calendar events thr
 
 🚀 **[Live Demo](https://real-time-voice-assistant.vercel.app/)** — Try it now!
 
+📹 **[Watch Demo Video](https://www.loom.com/share/6b3c190e13da4122b8b7d7e20d621126)** — See it in action!
+
 ## Features
 
 - **Real-time voice conversation** — Talk naturally to schedule meetings using your browser's built-in speech recognition
@@ -18,14 +20,14 @@ A real-time voice assistant that helps users schedule Google Calendar events thr
 
 ```
 ┌──────────────────────────────────────┐
-│              Browser                  │
+│              Browser                 │
 │  ┌────────────┐  ┌────────────────┐  │
-│  │ Web Speech  │  │ Web Speech     │  │
-│  │ Recognition │  │ Synthesis      │  │
-│  │ (STT)       │  │ (TTS)          │  │
+│  │ Web Speech │  │ Web Speech     │  │
+│  │ Recognition│  │ Synthesis      │  │
+│  │ (STT)      │  │ (TTS)          │  │
 │  └──────┬─────┘  └───────▲────────┘  │
-│         │                │            │
-│         ▼                │            │
+│         │                │           │
+│         ▼                │           │
 │  ┌──────────────────────────────┐    │
 │  │     React UI + Chat Logic    │    │
 │  └──────────────┬───────────────┘    │
@@ -33,14 +35,14 @@ A real-time voice assistant that helps users schedule Google Calendar events thr
                   │ REST API
                   ▼
            ┌──────────────┐       ┌──────────────┐
-           │  Next.js API  │──────►│   Groq API   │
-           │   Routes      │       │ (Llama 3.3)  │
+           │  Next.js API │──────►│   Groq API   │
+           │   Routes     │       │ (Llama 3.3)  │
            └──────┬───────┘       └──────────────┘
                   │
                   ▼
            ┌──────────────┐
-           │   Google      │
-           │  Calendar API │
+           │   Google     │
+           │  Calendar API│
            └──────────────┘
 ```
 
