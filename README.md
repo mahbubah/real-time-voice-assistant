@@ -6,7 +6,7 @@ A real-time voice assistant that helps users schedule Google Calendar events thr
 
 ## Demo Video
 
-[![Watch Demo](https://cdn.loom.com/sessions/thumbnails/6b3c190e13da4122b8b7d7e20d621126-with-play.gif)](https://www.loom.com/share/6b3c190e13da4122b8b7d7e20d621126)
+📹 [Watch Demo Video](https://www.loom.com/share/6b3c190e13da4122b8b7d7e20d621126) — See the voice assistant in action
 
 ## Features
 
