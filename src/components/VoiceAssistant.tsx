@@ -431,7 +431,7 @@ export default function VoiceAssistant() {
           Voice Scheduling Agent
         </h1>
         <p className="text-muted-foreground mt-2">
-          Schedule meetings with your voice — powered by AI
+          Schedule meetings with your voice
         </p>
       </div>
 
@@ -589,7 +589,7 @@ export default function VoiceAssistant() {
 
         {/* Footer info */}
         <p className="text-center text-xs text-muted-foreground mt-4">
-          Powered by Web Speech API · Groq· Google Calendar
+          Powered by Web Speech API · Groq · Google Calendar
         </p>
       </div>
     </div>
