@@ -589,7 +589,7 @@ export default function VoiceAssistant() {
 
         {/* Footer info */}
         <p className="text-center text-xs text-muted-foreground mt-4">
-          Powered by Web Speech API · OpenAI · Google Calendar
+          Powered by Web Speech API · Groq· Google Calendar
         </p>
       </div>
     </div>

@@ -2,6 +2,8 @@
 
 A real-time voice assistant that helps users schedule Google Calendar events through natural conversation. Built with **Next.js**, **Groq** (free LLM), **Web Speech API** (browser-native STT/TTS), and **Google Calendar API**.
 
+🚀 **[Live Demo](https://real-time-voice-assistant.vercel.app/)** — Try it now!
+
 ## Features
 
 - **Real-time voice conversation** — Talk naturally to schedule meetings using your browser's built-in speech recognition
